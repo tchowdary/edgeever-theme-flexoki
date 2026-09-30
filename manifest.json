@@ -1,0 +1,36 @@
+{
+  "type": "theme",
+  "id": "uk.tanveer.themes.flexoki",
+  "name": "Flexoki",
+  "version": "1.0.0",
+  "themeApiVersion": "1",
+  "description": "Flexoki paper-and-ink palette by Steph Ango (stephango.com/flexoki).",
+  "author": "tchowdary",
+  "modes": ["light", "dark"],
+  "light": {
+    "color.background": "#F2F0E5",
+    "color.surface": "#FFFCF0",
+    "color.surfaceMuted": "#E6E4D9",
+    "color.text": "#100F0F",
+    "color.textMuted": "#6F6E69",
+    "color.border": "#DAD8CE",
+    "color.accent": "#205EA6",
+    "color.accentForeground": "#FFFCF0",
+    "color.success": "#66800B",
+    "color.warning": "#AD8301",
+    "color.danger": "#AF3029"
+  },
+  "dark": {
+    "color.background": "#1C1B1A",
+    "color.surface": "#100F0F",
+    "color.surfaceMuted": "#282726",
+    "color.text": "#CECDC3",
+    "color.textMuted": "#878580",
+    "color.border": "#343331",
+    "color.accent": "#4385BE",
+    "color.accentForeground": "#100F0F",
+    "color.success": "#879A39",
+    "color.warning": "#D0A215",
+    "color.danger": "#D14D41"
+  }
+}
